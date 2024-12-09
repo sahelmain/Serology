@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\api",
+    "\\api\\Medical-Information.API",
+    "\\api\\Medical-Information.API\\Medical-Information.API",
+    "\\client\\src",
+    "\\client\\src\\pages"
+  ],
+  "SelectedNode": "\\api\\Medical-Information.API\\Medical-Information.API\\appsettings.json",
+  "PreviewInSolutionExplorer": false
+}
